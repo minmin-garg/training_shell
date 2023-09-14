@@ -1,4 +1,4 @@
 # training_shell
 Demo Project
 <br>
-By - Minal Garg
+By - Minal Garg (Shell)
